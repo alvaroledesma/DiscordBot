@@ -1,4 +1,4 @@
-# Emily - A discord bot
+# TwistedEmily - A discord bot based upon Emily by Kaaz
 
 A Java bot for [Discord](https://discordapp.com/) using the [JDA library](https://github.com/DV8FromTheWorld/JDA).
 
